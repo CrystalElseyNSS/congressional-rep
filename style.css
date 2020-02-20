@@ -1,0 +1,63 @@
+
+
+.bio-affiliation {
+    color: gray;    
+    font-family: 'Noto Serif', serif;
+    font-size: 18px;
+    margin-top: -15px;
+    text-align: center;
+}
+
+.bio-district {
+    color: gray;    
+    font-family: 'Noto Serif', serif;
+    font-size: 18px;
+    margin-bottom: 30px;
+    margin-top: -15px;
+    text-align: center;
+}
+
+h1 {
+    color: #29384f; 
+    font-family: 'Pinyon Script', cursive;
+    font-size: 100px;
+    margin: 0px;
+    text-align: center; 
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+.jims-work {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: -30px;
+}
+
+.list-title {
+    color: #29384f;    
+    font-family: 'Pinyon Script', cursive;
+    font-size: 28px;
+    margin-bottom: 0px;
+    margin-top: 60px;
+    text-align: center;
+}
+
+ul {
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 0px;
+}
+
+.work {
+    border: 1px dotted gray;
+    color: gray;
+    font-family: 'Noto Serif', serif;
+    list-style-type: none;
+    margin: 0.5em;
+    padding: .5em;
+}
+
